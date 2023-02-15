@@ -1,4 +1,4 @@
-# Projeto de Envio de Email
+# Projeto de Envio de Email (Gmail)
 
 
  Projeto simples com Java e Spring Boot para enviar email utilizando contas do Gmail.
