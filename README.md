@@ -46,5 +46,5 @@
 
 1. Confirme se usuário e senha estão corretos.
 2. Desabilite a verificação em 2 [etapas](https://support.google.com/accounts/answer/1064203?hl=pt-BR&co=GENIE.Platform%3DDesktop)
-3. Para enviar email em sua aplicação você precisa habilitar uma configuração de segurança no Gmail
-   1. Habilitando aplicações menos Seguras no GMail[detalhes](https://support.google.com/accounts/answer/6010255?hl=pt).
+3. Para enviar email em sua aplicação você precisa habilitar uma configuração de segurança no Gmail:
+   1. Habilitando aplicações menos Seguras no GMail. [detalhes](https://support.google.com/accounts/answer/6010255?hl=pt).
